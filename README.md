@@ -11,6 +11,8 @@
     <br />
 </div>
 
+![SimpleKeypad](https://github.com/itsKatVR/vrc-simple-keypad/assets/77287432/a26c68f7-dff5-41f1-8503-ec024e4e5241)
+
 ## Introduction
 
 Simple Keypad is designed for UdonSharp.
@@ -36,6 +38,7 @@ Temporary Passcode is: 1234
 You can click the dropdown for "Users" to specify usernames that will automatically have access to the toggles without the need to input the passcode each time!
 
 How do I know I've entered the correct code? - "ACCESS" will turn Green on valid input, and Red on invalid input.
+![SimpleKeypad_UExample](https://github.com/itsKatVR/vrc-simple-keypad/assets/77287432/cdf051a9-43ec-4c3e-85f7-1f966abc487b)
 
 ## Customize
 Can I change the color? Yes!
