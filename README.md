@@ -32,6 +32,7 @@ A project with the latest VRChat SDK3 Release- can be found below:
 Set a passcode, enter passcode.
 
 Temporary Passcode is: 1234
+
 You can click the dropdown for "Users" to specify usernames that will automatically have access to the toggles without the need to input the passcode each time!
 
 ## Customize
