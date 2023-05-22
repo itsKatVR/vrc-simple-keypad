@@ -10,6 +10,8 @@
     <br />
     <br />
 </div>
+![SimpleKeypad](https://github.com/itsKatVR/vrc-simple-keypad/assets/77287432/fa9f5af6-4185-4297-ae29-64b03a343f4e)
+![SimpleKeypad_UExample](https://github.com/itsKatVR/vrc-simple-keypad/assets/77287432/3979d539-1265-4739-bb26-fa4fd5fce3dd)
 
 ## Introduction
 
