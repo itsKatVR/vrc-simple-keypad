@@ -45,6 +45,14 @@ Can I change the color? Yes!
 Inside of the prefab, after you have unpacked it. 
 You can select each Parent Object named 0_Button - Enter_Button,
 There should be an "Image" UI element inside each, select all of these- and then modify the color in inspector.
+
+## Something needs fixed?
+Sprite Editor! In some projects, it may require you to install 2D Sprite through your Package Manager. If this is the case, please follow steps to install.
+
+Also, note that the Sprite used for the Borders uses a `9, 9, 9, 9` Border setting.
+
+![SimpleKeypad_SpriteExample](https://github.com/itsKatVR/vrc-simple-keypad/assets/77287432/5097f7fa-470b-4b86-8e34-e95b7931c2ec)
+
 ```
 $ ./That one time at band camp.
 ```
